@@ -9,6 +9,9 @@ Commit #:   26
 Solution:   Spreadsheet
 Copyright:  CS 3500 and Nik McKnight - This work may not be copied for use in Academic Coursework.
 ```
+# To Run
+
+Open in Visual Studio, set startup project to 'GUI', and run.
 
 # Overview of the Spreadsheet functionality
 
